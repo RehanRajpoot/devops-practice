@@ -69,4 +69,4 @@ class LibraryApp(App):
 
 
 if __name__ == "__main__":
-    LibraryApp().run()
+    LibraryAp().run()
